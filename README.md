@@ -10,7 +10,6 @@ scikit-learn (Machine Learning Library): Utilized for implementing machine learn
 
 HTML/CSS (Frontend): Responsible for creating the user interface.
 
-AWS Cloud: The project is hosted on the AWS cloud.
 ## Features
 Input Fields: Users can input key features such as crime rate, average number of rooms, etc.
 
